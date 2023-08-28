@@ -1,3 +1,4 @@
+package edu.daniel.aula4a6;
 //Exemplo de codigo com boa identação.
 
 public class IdentaçãoBoletim {
